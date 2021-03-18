@@ -13,7 +13,7 @@
 
 ## Setup/Installation Requirements
 
-1. Clone git repository [Click here](https://github.com/reeder32/my-resort-website.git)
+1. Clone git repository [Click here](https://github.com/reeder32/vacation-site.git)
 2. Find _index.html_ file
 3. _Open with your favorite browser_ by double clicking, or right-click -> open with...
 
