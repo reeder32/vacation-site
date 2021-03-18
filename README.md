@@ -1,8 +1,8 @@
 # My Resort Site
 
-#### A website to show off my resort. Complete with accommodations, pictures, activities, and contact information.
+#### A website to show off vacation site using bootstrap.
 
-#### By Nick Reeder, James Wyn, Ahmed Ghouzlane
+#### By Nick Reeder
 
 ## Technologies Used
 
